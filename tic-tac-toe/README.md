@@ -1,6 +1,6 @@
 ### Tic-Tac-Toe
 
-Tic-Tac-Toe (or noughts and crosses) is a simple strategy game in which two players take turns placing a mark on a 3x3 board, attempting to make a row, column, or diagonal of three with their mark. In this homework, we will use the tools we've covered in the past two weeks to create a Tic-Tac-Toe simulator and evaluate basic winning strategies.
+Tic-Tac-Toe (or noughts and crosses) is a simple strategy game in which two players take turns placing a mark on a 3x3 board, attempting to make a row, column, or diagonal of three with their mark.Here we will create a Tic-Tac-Toe simulator and evaluate basic winning strategies.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8e/TicTacToe-6549127nnXOp.gif)
 
