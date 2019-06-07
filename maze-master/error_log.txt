@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "maze.py", line 98, in <module>
+    while MazeGame(Maze.generate(width, height)).play():
+NameError: name 'Maze' is not defined
