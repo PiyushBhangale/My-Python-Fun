@@ -9,8 +9,7 @@ goal `$`.
 
 Usage:
 - `python maze.py` (uses default size of 50x50)
-- `python maze.py 40 15` (specify size 40x15)
-- `python maze.py 20` (square maze 20x20)
+
 
 Example :
 
